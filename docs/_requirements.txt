@@ -1,0 +1,4 @@
+mkdocstrings-python
+pymdown-extensions
+mkdocs-jupyter
+markdown-exec
