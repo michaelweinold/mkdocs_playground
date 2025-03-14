@@ -1,5 +1,5 @@
 # Index
 
-```pyodide
-print("Hello Markdown!")
+```pyodide install='jetfuelburn'
+from jetfuelburn import ureg
 ```
